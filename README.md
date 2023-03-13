@@ -1,5 +1,4 @@
 # Hi there 👋
-## 💫 About Me:
 ### I'm a hardworking and passionate full-stack cross-platform software engineer who is always looking for ways to solve problems and provide the best solution.
 
 ## 💻 Tech Stack:
